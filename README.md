@@ -1,5 +1,7 @@
 ![Hello](./WJ.gif)
 
+![](https://github-readme-stats.vercel.app/api?username=WeiJ0&show_icons=true&show_owner=true&count_private=true)
+
 <!--
 **WeiJ0/WeiJ0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
