@@ -25,4 +25,4 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Lin.WeiJ/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:weijlin850621@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge)](https://blog.weij0.me/)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge)](https://weij0.me/)
